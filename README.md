@@ -32,13 +32,14 @@ y autenticación segura con contraseñas encriptadas (hashing).
 
    **Capturas de Pruebas exitosas**
    1. Registro de Usuario (POST /registro)
-
+![/registro](assets/registro.png
 
    2. Inicio de Sesión (POST /login)
-
+![/login](assets/login.png
 
 3. Página de Bienvenida (GET /tareas)
-
+![/tareas](assets/tareas1.png
+![/tareas](assets/tareas2.png
 
   
    **Respuestas conceptuales:**
